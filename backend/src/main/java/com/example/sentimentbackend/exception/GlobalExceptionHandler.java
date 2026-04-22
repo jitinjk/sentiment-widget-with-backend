@@ -1,4 +1,4 @@
-package com.wogaa.sentiment.exception;
+package com.example.sentimentbackend.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.validation.FieldError;

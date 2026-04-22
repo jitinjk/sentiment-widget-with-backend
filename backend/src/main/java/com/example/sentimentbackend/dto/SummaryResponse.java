@@ -1,4 +1,4 @@
-package com.wogaa.sentiment.dto;
+package com.example.sentimentbackend.dto;
 
 import java.util.List;
 

@@ -1,10 +1,10 @@
-package com.wogaa.sentiment.service;
+package com.example.sentimentbackend.service;
 
-import com.wogaa.sentiment.dto.FeedbackRequest;
-import com.wogaa.sentiment.dto.RecentComment;
-import com.wogaa.sentiment.dto.SummaryResponse;
-import com.wogaa.sentiment.model.Feedback;
-import com.wogaa.sentiment.repository.FeedbackRepository;
+import com.example.sentimentbackend.dto.FeedbackRequest;
+import com.example.sentimentbackend.dto.RecentComment;
+import com.example.sentimentbackend.dto.SummaryResponse;
+import com.example.sentimentbackend.model.Feedback;
+import com.example.sentimentbackend.repository.FeedbackRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

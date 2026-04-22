@@ -1,8 +1,8 @@
 package com.example.sentimentbackend.controller;
 
-import com.wogaa.sentiment.dto.FeedbackRequest;
-import com.wogaa.sentiment.dto.SummaryResponse;
-import com.wogaa.sentiment.service.FeedbackService;
+import com.example.sentimentbackend.dto.FeedbackRequest;
+import com.example.sentimentbackend.dto.SummaryResponse;
+import com.example.sentimentbackend.service.FeedbackService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import jakarta.validation.Valid;
