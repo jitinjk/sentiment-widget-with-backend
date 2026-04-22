@@ -1,6 +1,6 @@
 # Sentiment Widget
 
-A full-stack feedback widget built for the WOGAA Engineering Frontend Technical Assessment.
+A full-stack feedback widget built for the Engineering Frontend Technical Assessment.
 Users submit a 1–5 rating with an optional comment. The summary panel shows live stats fetched from the backend.
 
 ---
