@@ -5,6 +5,10 @@ Users submit a 1–5 rating with an optional comment. The summary panel shows li
 
 ---
 
+## S3 URL of the Site 
+
+http://sentiment-widget-with-backend-784682930082-ap-southeast-2-an.s3-website-ap-southeast-2.amazonaws.com/
+
 ## Architecture
 
 ```
